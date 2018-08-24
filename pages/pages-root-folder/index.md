@@ -9,63 +9,63 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "ACLU TEXAS"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: 1-450x253.jpg
-  text: 'TEXT <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  url: 'https://www.aclutx.org'
+  image: widget-1-302x182.jpg
+  text: '<em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  image: 2-450x253.jpg
+  title: "RAICES"
+  url: 'https://www.raicestexas.org'
+  image: widget-2-302x182.jpg
   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: 3-450x253.jpg
+  title: "KIND"
+  url: 'https://supportkind.org'
+  image: widget-3-302x182.jpg
   text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
 widget4:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: 4-450x253.jpg
+  title: "FAMILIES BELONG TOGETHER"
+  url: 'https://www.familiesbelongtogether.org'
+  image: widget-4-302x182.jpg
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget5:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  image: 5-450x253.jpg
+  title: "TEXAS CIVIL RIGHTS PROJECT"
+  url: 'https://texascivilrightsproject.org'
+  image: widget-5-302x182.jpg
   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
 widget6:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: 6-450x253.jpg
+  title: "DE ANDA LAW FIRM"
+  url: 'https://www.deandalawfirm.com'
+  image: widget-6-302x182.jpg
   text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
 widget7:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: 7-450x253.jpg
+  title: "LAS AMERICAS IMMIGRANT ADVOCACY"
+  url: 'http://las-americas.org'
+  image: widget-7-302x182.jpg
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget8:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  image: 8-450x253.jpg
+  title: "DETAINED MIGRANT SOLIDARITY COMMITTEE"
+  url: 'https://dmscelpaso.wixsite.com/dmscelpaso'
+  image: widget-8-302x182.jpg
   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
 widget9:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: 9-450x253.jpg
+  title: "DIOCESAN MIGRANT AND REFUGEE SERVICES"
+  url: 'http://www.elpasodiocese.org/diocesan-migrant--refugee-services-inc.html'
+  image: widget-9-302x182.jpg
   text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
 widget10:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: 10-450x253.jpg
+  title: "ANNUNCIATION HOUSE"
+  url: 'https://annunciationhouse.org'
+  image: widget-10-302x182.jpg
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget11:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  image: 11-450x253.jpg
+  title: "ANNUNCIATION HOUSE"
+  url: 'https://annunciationhouse.org'
+  image: widget-11-302x182.jpg
   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
 widget12:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: 12-450x253.jpg
+  title: "ANNUNCIATION HOUSE"
+  url: 'https://annunciationhouse.org'
+  image: widget-12-302x182.jpg
   text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
 #
 # Use the call for action to show a button on the frontpage
