@@ -8,29 +8,28 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Help Detained Children'
+title: 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Help Reunite Detained Children With Their Families'
 
-# The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
+# The description is used on hos'mepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: '»These are the organizations working to reunite detained children with their families. How can you help? '
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p><a href="https://hdcorg.github.io">Help Detained Children</a> 2018 <a href="https://twitter.com/HelpDetainedKds">Contact us on Twitter to include another organization</a>.</p>'
+credits: ''
 
 # Main author of the website
 # See > authors.yml
-author: HelpDetainedChildren
+author: 
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://hdcorg.github.io'
+url: '
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://hdcorg.github.io/edit/gh-pages
+improve_content:
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,7 +37,7 @@ improve_content: https://hdcorg.github.io/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://hdcorg.github.io/images/'
+urlimg: '
 
 
 # Logo size is 600x80 pixels
@@ -142,9 +141,7 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             'https://plus.google.com/u/0/118311555303973066167'
-google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
-bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
+google_author:             '
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
 
@@ -177,7 +174,7 @@ msapplication_tilecolor:                '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           'https://pbs.twimg.com/profile_images/1032015626720538624/wxM98nT5_400x400.jpg'
+og_image:                           '
 og_locale:                          'en_EN'
 og_type:                            'website'
 
@@ -192,7 +189,7 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: helpdetainedkds
+    twitter: 
     facebook: phlow.media
 
 
@@ -229,7 +226,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: UA-60112281-1
+google_analytics_tracking_id:
 
 
 
